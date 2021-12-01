@@ -1,0 +1,30 @@
+PODS:
+  - Kingfisher (7.1.1)
+  - ReachabilitySwift (5.0.0)
+  - Realm (10.18.0):
+    - Realm/Headers (= 10.18.0)
+  - Realm/Headers (10.18.0)
+  - RealmSwift (10.18.0):
+    - Realm (= 10.18.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - ReachabilitySwift
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+    - ReachabilitySwift
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  Kingfisher: f738f9c4a3415823b8e2985d10aa2d6a9f37bc4d
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+  Realm: b8b0a36bf48c39c50fd8cee7ac34005e6d887ddd
+  RealmSwift: fe2f33d731f47aaf4c3618930f9f7cf7b935c33f
+
+PODFILE CHECKSUM: 464f9b4d71b8db9a6a4fc5206afcde7f89eefca8
+
+COCOAPODS: 1.11.2
